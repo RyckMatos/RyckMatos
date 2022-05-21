@@ -1,4 +1,4 @@
-### Oi! Eu sou o Henrique Matos
+### Ola! Eu sou o Henrique Matos
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando BSI
