@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Henrique Matos
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando BSI
+- 🔭 Hoje trabalho com Full-Stack
+- 🌱 Formado em BSI - Bacharelado em Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/RyckMatos">
